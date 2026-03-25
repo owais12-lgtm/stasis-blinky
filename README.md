@@ -1,6 +1,11 @@
 # about
 This is a keychain with a buncha leds in the shape of the stasis logo! 
 
+# Images
+<img width="1147" height="891" alt="image" src="https://github.com/user-attachments/assets/1ee97ca8-b0d2-45d6-986e-b0e5bb3d6710" />
+<img width="1150" height="765" alt="image" src="https://github.com/user-attachments/assets/0f8d4843-f033-4674-8d17-e957cab7ef31" />
+
+
 # BOM
 | Name                | Purpose                  | Quantity | Total Cost (USD) |
 |---------------------|--------------------------|----------|------------------|
